@@ -19,7 +19,8 @@ body {
     align-items: center; 
     justify-content: center; 
     min-height: 100vh; 
-    background-image: linear-gradient(to bottom right, dodgerblue, rgb(43, 149, 255), rgb(50, 151, 252)); 
+    background-color: #222; 
+    /* background-image: linear-gradient(to bottom right, dodgerblue, rgb(43, 149, 255), rgb(50, 151, 252)); */
 }
 
 
